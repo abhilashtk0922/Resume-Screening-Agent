@@ -1,0 +1,18 @@
+Meera Nair
+Email: meera.nair@example.com
+Phone: +91 99887 76655
+
+Summary
+AI graduate focused on NLP applications, data cleaning, and reproducible Python experiments.
+
+Skills
+Python, Machine Learning, NLP, Natural Language Processing, scikit-learn, pandas, NumPy, Git, REST API, Generative AI, Streamlit
+
+Education
+Bachelor of Engineering in Information Technology
+
+Experience
+2 years of experience including internships and capstone AI projects.
+
+Projects
+Developed a ticket classification prototype using TF-IDF, logistic regression, pandas, and scikit-learn. Built a small Streamlit demo and REST API wrapper.

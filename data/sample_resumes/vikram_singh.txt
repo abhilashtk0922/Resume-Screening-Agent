@@ -1,0 +1,18 @@
+Vikram Singh
+Email: vikram.singh@example.com
+Phone: +91 93333 44455
+
+Summary
+General software developer with Java and database experience.
+
+Skills
+Java, Spring, SQL, MySQL, PostgreSQL, Git, Linux
+
+Education
+MBA
+
+Experience
+5 years of experience in enterprise application maintenance.
+
+Projects
+Maintained Java services for inventory management. Improved SQL queries and supported Linux-based deployments.

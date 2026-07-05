@@ -1,0 +1,18 @@
+Arjun Reddy
+Email: arjun.reddy@example.com
+Phone: +91 95555 44433
+
+Summary
+Frontend developer focused on responsive web interfaces.
+
+Skills
+JavaScript, TypeScript, React, HTML, CSS, GitHub, REST API
+
+Education
+BCA
+
+Experience
+2 years of experience building frontend applications.
+
+Projects
+Created React dashboards for sales reporting and integrated REST API endpoints from backend services.

@@ -1,0 +1,18 @@
+Aarav Sharma
+Email: aarav.sharma@example.com
+Phone: +91 98765 43210
+
+Summary
+Junior AI Engineer with internship experience building NLP and Machine Learning prototypes in Python.
+
+Skills
+Python, Machine Learning, Natural Language Processing, NLP, scikit-learn, pandas, NumPy, Git, REST APIs, FastAPI, Generative AI
+
+Education
+B.Tech in Computer Science
+
+Experience
+1 year of experience through AI internships and academic research projects.
+
+Projects
+Built a resume keyword analyzer using TF-IDF, scikit-learn, pandas, and NumPy. Created a REST API for text classification experiments and documented model limitations.

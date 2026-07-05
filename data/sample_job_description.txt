@@ -1,1 +1,28 @@
-Add a sample job description here in a later step.
+Junior AI Engineer
+
+We are looking for a Junior AI Engineer to help build practical NLP and machine learning features for internal products. The role is suitable for candidates with 0-2 years of experience, strong Python fundamentals, and curiosity about applied AI systems.
+
+Responsibilities:
+- Build and evaluate Machine Learning and Natural Language Processing prototypes.
+- Use scikit-learn, pandas, and NumPy for data preparation, model experiments, and analysis.
+- Develop simple REST APIs for model-backed features.
+- Use Git for version control and collaborate through clean pull requests.
+- Document experiments, assumptions, tradeoffs, and limitations clearly.
+- Learn and apply Generative AI basics in a responsible, privacy-aware way.
+
+Required skills:
+- Python
+- Machine Learning
+- NLP
+- scikit-learn
+- pandas
+- NumPy
+- Git
+- REST APIs
+- Generative AI basics
+
+Education:
+- Bachelor's degree in Computer Science, Information Technology, or a related field.
+
+Experience:
+- 0-2 years of experience through internships, academic projects, open-source work, or junior engineering roles.

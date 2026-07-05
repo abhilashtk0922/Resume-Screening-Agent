@@ -1,0 +1,18 @@
+Nikhil Rao
+Email: nikhil.rao@example.com
+Phone: +91 91111 22233
+
+Summary
+Backend developer with Python API experience and interest in ML-assisted products.
+
+Skills
+Python, Flask, REST APIs, Git, PostgreSQL, Docker, pandas
+
+Education
+Bachelor of Technology in Information Science
+
+Experience
+3 years of experience in backend development.
+
+Projects
+Built REST APIs for document management systems. Added pandas scripts for reporting and collaborated using Git and Docker.

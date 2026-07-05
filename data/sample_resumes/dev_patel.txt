@@ -1,0 +1,18 @@
+Dev Patel
+Email: dev.patel@example.com
+Phone: +91 94444 55566
+
+Summary
+Junior developer with practical Python, ML coursework, and backend API experience.
+
+Skills
+Python, Machine Learning, pandas, NumPy, Git, REST APIs, Django, SQL, Generative AI
+
+Education
+Bachelor of Science in Computer Science
+
+Experience
+1 year of experience as a software engineering intern.
+
+Projects
+Implemented a product review classifier using Python and pandas. Explored Generative AI basics in a college project and built REST APIs for serving predictions.

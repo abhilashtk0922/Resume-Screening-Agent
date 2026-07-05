@@ -1,0 +1,18 @@
+Sana Khan
+Email: sana.khan@example.com
+Phone: +91 93333 22211
+
+Summary
+Computer Science graduate with machine learning project work and clean Python coding habits.
+
+Skills
+Python, Machine Learning, scikit-learn, NumPy, Git, GitHub, FastAPI, REST API, Streamlit
+
+Education
+BCA in Computer Science
+
+Experience
+0.8 years of experience through internships and freelance prototypes.
+
+Projects
+Created a student performance prediction dashboard with scikit-learn and Streamlit. Used FastAPI for a simple model inference service.

@@ -1,0 +1,18 @@
+Priya Sen
+Email: priya.sen@example.com
+Phone: +91 96666 77788
+
+Summary
+Recent graduate with academic data science projects and interest in NLP.
+
+Skills
+Python, Machine Learning, NLP, pandas, SQL, GitHub, HTML, CSS
+
+Education
+B.E. Information Technology
+
+Experience
+0.5 years of experience from internship projects.
+
+Projects
+Built a basic sentiment analysis notebook using Python and pandas. Presented experiment findings and limitations in a college seminar.

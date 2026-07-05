@@ -1,0 +1,18 @@
+Kavya Menon
+Email: kavya.menon@example.com
+Phone: +91 90000 11122
+
+Summary
+Software engineer with strong Python and data analysis experience, moving toward applied AI.
+
+Skills
+Python, pandas, NumPy, scikit-learn, Machine Learning, Git, REST API, Flask, SQL
+
+Education
+B.Tech in Information Technology
+
+Experience
+2 years of experience building backend tools and data dashboards.
+
+Projects
+Built a churn prediction proof of concept using scikit-learn and pandas. Added Flask endpoints for batch scoring and wrote Git-based deployment notes.

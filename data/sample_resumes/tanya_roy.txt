@@ -1,0 +1,18 @@
+Tanya Roy
+Email: tanya.roy@example.com
+Phone: +91 94444 33322
+
+Summary
+Cloud support associate with scripting and infrastructure exposure.
+
+Skills
+AWS, Azure, Linux, Docker, Kubernetes, Git, Python
+
+Education
+Bachelor of Engineering in Electronics
+
+Experience
+4 years of experience in cloud operations and support.
+
+Projects
+Automated log collection using Python scripts and Linux shell tools. Supported Docker deployments on cloud environments.

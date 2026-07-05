@@ -1,0 +1,926 @@
+[
+  {
+    "candidate_name": "Meera Nair",
+    "final_score": 54.83651814544551,
+    "similarity_score": 19.673036290891012,
+    "skill_match_score": 100.0,
+    "experience_score": 100.0,
+    "education_score": 50.0,
+    "matched_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API"
+    ],
+    "missing_skills": [],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 19.673036290891012,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 9.836518145445506,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 100.0,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 30.0,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 100.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 10.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "meera_nair.txt",
+    "email": "meera.nair@example.com",
+    "phone": "+91 99887 76655",
+    "education": [
+      "Bachelor of Engineering",
+      "Information Technology"
+    ],
+    "estimated_experience_years": 2,
+    "extracted_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "Streamlit"
+    ],
+    "rank": 1,
+    "ranking_explanation": "Meera Nair has an overall moderate match with a final score of 54.8/100. NLP similarity is 19.7/100. Required skill match is 100.0/100. Matched skills: Python, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API."
+  },
+  {
+    "candidate_name": "Aarav Sharma",
+    "final_score": 54.77692552681934,
+    "similarity_score": 29.55385105363868,
+    "skill_match_score": 100.0,
+    "experience_score": 50.0,
+    "education_score": 50.0,
+    "matched_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API"
+    ],
+    "missing_skills": [],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 29.55385105363868,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 14.77692552681934,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 100.0,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 30.0,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "aarav_sharma.txt",
+    "email": "aarav.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "education": [
+      "Bachelor of Technology",
+      "Computer Science"
+    ],
+    "estimated_experience_years": 1,
+    "extracted_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "FastAPI"
+    ],
+    "rank": 2,
+    "ranking_explanation": "Aarav Sharma has an overall moderate match with a final score of 54.8/100. NLP similarity is 29.6/100. Required skill match is 100.0/100. Matched skills: Python, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API."
+  },
+  {
+    "candidate_name": "Rohan Iyer",
+    "final_score": 53.831326105065756,
+    "similarity_score": 22.66265221013152,
+    "skill_match_score": 100.0,
+    "experience_score": 75.0,
+    "education_score": 50.0,
+    "matched_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API"
+    ],
+    "missing_skills": [],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 22.66265221013152,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 11.33132610506576,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 100.0,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 30.0,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 75.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 7.5,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "rohan_iyer.txt",
+    "email": "rohan.iyer@example.com",
+    "phone": "+91 91234 56789",
+    "education": [
+      "Bachelor of Engineering",
+      "Computer Science"
+    ],
+    "estimated_experience_years": 1.5,
+    "extracted_skills": [
+      "Python",
+      "Git",
+      "GitHub",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "Large Language Models",
+      "REST API",
+      "Flask"
+    ],
+    "rank": 3,
+    "ranking_explanation": "Rohan Iyer has an overall moderate match with a final score of 53.8/100. NLP similarity is 22.7/100. Required skill match is 100.0/100. Matched skills: Python, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API."
+  },
+  {
+    "candidate_name": "Kavya Menon",
+    "final_score": 45.7449464120682,
+    "similarity_score": 14.82322615746973,
+    "skill_match_score": 77.77777777777779,
+    "experience_score": 100.0,
+    "education_score": 50.0,
+    "matched_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Natural Language Processing",
+      "Generative AI"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 14.82322615746973,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 7.411613078734865,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 77.77777777777779,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 23.333333333333336,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 100.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 10.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "kavya_menon.txt",
+    "email": "kavya.menon@example.com",
+    "phone": "+91 90000 11122",
+    "education": [
+      "Bachelor of Technology",
+      "Information Technology"
+    ],
+    "estimated_experience_years": 2,
+    "extracted_skills": [
+      "Python",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "REST API",
+      "Flask"
+    ],
+    "rank": 4,
+    "ranking_explanation": "Kavya Menon has an overall limited match with a final score of 45.7/100. NLP similarity is 14.8/100. Required skill match is 77.8/100. Matched skills: Python, Git, Machine Learning, scikit-learn, pandas, NumPy, REST API. Missing skills: Natural Language Processing, Generative AI."
+  },
+  {
+    "candidate_name": "Dev Patel",
+    "final_score": 42.71900698357958,
+    "similarity_score": 18.77134730049249,
+    "skill_match_score": 77.77777777777779,
+    "experience_score": 50.0,
+    "education_score": 50.0,
+    "matched_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Natural Language Processing",
+      "scikit-learn"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 18.77134730049249,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 9.385673650246245,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 77.77777777777779,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 23.333333333333336,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "dev_patel.txt",
+    "email": "dev.patel@example.com",
+    "phone": "+91 94444 55566",
+    "education": [
+      "Bachelor of Science",
+      "Computer Science"
+    ],
+    "estimated_experience_years": 1,
+    "extracted_skills": [
+      "Python",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API",
+      "Django"
+    ],
+    "rank": 5,
+    "ranking_explanation": "Dev Patel has an overall limited match with a final score of 42.7/100. NLP similarity is 18.8/100. Required skill match is 77.8/100. Matched skills: Python, Git, Machine Learning, pandas, NumPy, Generative AI, REST API. Missing skills: Natural Language Processing, scikit-learn."
+  },
+  {
+    "candidate_name": "Isha Bose",
+    "final_score": 40.69558130353574,
+    "similarity_score": 11.391162607071493,
+    "skill_match_score": 66.66666666666666,
+    "experience_score": 100.0,
+    "education_score": 50.0,
+    "matched_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "scikit-learn",
+      "pandas",
+      "NumPy"
+    ],
+    "missing_skills": [
+      "Natural Language Processing",
+      "Generative AI",
+      "REST API"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 11.391162607071493,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 5.695581303535746,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 66.66666666666666,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 19.999999999999996,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 100.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 10.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "isha_bose.txt",
+    "email": "isha.bose@example.com",
+    "phone": "+91 92222 33344",
+    "education": [
+      "Bachelor of Science",
+      "Computer Science"
+    ],
+    "estimated_experience_years": 2,
+    "extracted_skills": [
+      "Python",
+      "MySQL",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "scikit-learn",
+      "pandas",
+      "NumPy"
+    ],
+    "rank": 6,
+    "ranking_explanation": "Isha Bose has an overall limited match with a final score of 40.7/100. NLP similarity is 11.4/100. Required skill match is 66.7/100. Matched skills: Python, Git, Machine Learning, scikit-learn, pandas, NumPy. Missing skills: Natural Language Processing, Generative AI, REST API."
+  },
+  {
+    "candidate_name": "Sana Khan",
+    "final_score": 35.94295632907364,
+    "similarity_score": 13.885912658147282,
+    "skill_match_score": 66.66666666666666,
+    "experience_score": 40.0,
+    "education_score": 50.0,
+    "matched_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "scikit-learn",
+      "NumPy",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Natural Language Processing",
+      "pandas",
+      "Generative AI"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 13.885912658147282,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 6.942956329073641,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 66.66666666666666,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 19.999999999999996,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 40.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 4.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "sana_khan.txt",
+    "email": "sana.khan@example.com",
+    "phone": "+91 93333 22211",
+    "education": [
+      "BCA",
+      "Computer Science"
+    ],
+    "estimated_experience_years": 0.8,
+    "extracted_skills": [
+      "Python",
+      "Git",
+      "GitHub",
+      "Machine Learning",
+      "scikit-learn",
+      "NumPy",
+      "REST API",
+      "FastAPI",
+      "Streamlit"
+    ],
+    "rank": 7,
+    "ranking_explanation": "Sana Khan has an overall limited match with a final score of 35.9/100. NLP similarity is 13.9/100. Required skill match is 66.7/100. Matched skills: Python, Git, Machine Learning, scikit-learn, NumPy, REST API. Missing skills: Natural Language Processing, pandas, Generative AI."
+  },
+  {
+    "candidate_name": "Nikhil Rao",
+    "final_score": 28.11189245122588,
+    "similarity_score": 9.557118235785097,
+    "skill_match_score": 44.44444444444444,
+    "experience_score": 100.0,
+    "education_score": 0.0,
+    "matched_skills": [
+      "Python",
+      "Git",
+      "pandas",
+      "REST API"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "NumPy",
+      "Generative AI"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 9.557118235785097,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 4.778559117892549,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 44.44444444444444,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 13.333333333333332,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 100.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 10.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 0.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 0.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "nikhil_rao.txt",
+    "email": "nikhil.rao@example.com",
+    "phone": "+91 91111 22233",
+    "education": [
+      "Bachelor of Technology",
+      "Information Science"
+    ],
+    "estimated_experience_years": 3,
+    "extracted_skills": [
+      "Python",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "pandas",
+      "REST API",
+      "Flask"
+    ],
+    "rank": 8,
+    "ranking_explanation": "Nikhil Rao has an overall limited match with a final score of 28.1/100. NLP similarity is 9.6/100. Required skill match is 44.4/100. Matched skills: Python, Git, pandas, REST API. Missing skills: Machine Learning, Natural Language Processing, scikit-learn, NumPy, Generative AI."
+  },
+  {
+    "candidate_name": "Priya Sen",
+    "final_score": 25.563877791739916,
+    "similarity_score": 9.46108891681317,
+    "skill_match_score": 44.44444444444444,
+    "experience_score": 25.0,
+    "education_score": 50.0,
+    "matched_skills": [
+      "Python",
+      "Machine Learning",
+      "Natural Language Processing",
+      "pandas"
+    ],
+    "missing_skills": [
+      "Git",
+      "scikit-learn",
+      "NumPy",
+      "Generative AI",
+      "REST API"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 9.46108891681317,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 4.730544458406585,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 44.44444444444444,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 13.333333333333332,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 25.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 2.5,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 50.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 5.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "priya_sen.txt",
+    "email": "priya.sen@example.com",
+    "phone": "+91 96666 77788",
+    "education": [
+      "Bachelor of Engineering",
+      "Information Technology"
+    ],
+    "estimated_experience_years": 0.5,
+    "extracted_skills": [
+      "Python",
+      "SQL",
+      "GitHub",
+      "Machine Learning",
+      "Natural Language Processing",
+      "pandas",
+      "HTML",
+      "CSS"
+    ],
+    "rank": 9,
+    "ranking_explanation": "Priya Sen has an overall limited match with a final score of 25.6/100. NLP similarity is 9.5/100. Required skill match is 44.4/100. Matched skills: Python, Machine Learning, Natural Language Processing, pandas. Missing skills: Git, scikit-learn, NumPy, Generative AI, REST API."
+  },
+  {
+    "candidate_name": "Tanya Roy",
+    "final_score": 18.09162313054642,
+    "similarity_score": 2.8499129277595117,
+    "skill_match_score": 22.22222222222222,
+    "experience_score": 100.0,
+    "education_score": 0.0,
+    "matched_skills": [
+      "Python",
+      "Git"
+    ],
+    "missing_skills": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 2.8499129277595117,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 1.4249564638797556,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 22.22222222222222,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 6.666666666666666,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 100.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 10.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 0.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 0.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "tanya_roy.txt",
+    "email": "tanya.roy@example.com",
+    "phone": "+91 94444 33322",
+    "education": [
+      "Bachelor of Engineering"
+    ],
+    "estimated_experience_years": 4,
+    "extracted_skills": [
+      "Python",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Linux"
+    ],
+    "rank": 10,
+    "ranking_explanation": "Tanya Roy has an overall limited match with a final score of 18.1/100. NLP similarity is 2.8/100. Required skill match is 22.2/100. Matched skills: Python, Git. Missing skills: Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API."
+  },
+  {
+    "candidate_name": "Arjun Reddy",
+    "final_score": 14.382449506349435,
+    "similarity_score": 2.098232346032203,
+    "skill_match_score": 11.11111111111111,
+    "experience_score": 100.0,
+    "education_score": 0.0,
+    "matched_skills": [
+      "REST API"
+    ],
+    "missing_skills": [
+      "Python",
+      "Git",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 2.098232346032203,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 1.0491161730161016,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 11.11111111111111,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 3.333333333333333,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 100.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 10.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 0.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 0.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "arjun_reddy.txt",
+    "email": "arjun.reddy@example.com",
+    "phone": "+91 95555 44433",
+    "education": [
+      "BCA"
+    ],
+    "estimated_experience_years": 2,
+    "extracted_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "GitHub",
+      "REST API",
+      "HTML",
+      "CSS"
+    ],
+    "rank": 11,
+    "ranking_explanation": "Arjun Reddy has an overall limited match with a final score of 14.4/100. NLP similarity is 2.1/100. Required skill match is 11.1/100. Matched skills: REST API. Missing skills: Python, Git, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI."
+  },
+  {
+    "candidate_name": "Vikram Singh",
+    "final_score": 14.276162555076832,
+    "similarity_score": 1.885658443486997,
+    "skill_match_score": 11.11111111111111,
+    "experience_score": 100.0,
+    "education_score": 0.0,
+    "matched_skills": [
+      "Git"
+    ],
+    "missing_skills": [
+      "Python",
+      "Machine Learning",
+      "Natural Language Processing",
+      "scikit-learn",
+      "pandas",
+      "NumPy",
+      "Generative AI",
+      "REST API"
+    ],
+    "effective_weights": {
+      "similarity": 50.0,
+      "skills": 30.0,
+      "experience": 10.0,
+      "education": 10.0
+    },
+    "score_breakdown": {
+      "similarity": {
+        "score": 1.885658443486997,
+        "base_weight": 50.0,
+        "effective_weight": 50.0,
+        "contribution": 0.9428292217434985,
+        "requirement_detected": true
+      },
+      "skills": {
+        "score": 11.11111111111111,
+        "base_weight": 30.0,
+        "effective_weight": 30.0,
+        "contribution": 3.333333333333333,
+        "requirement_detected": true
+      },
+      "experience": {
+        "score": 100.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 10.0,
+        "requirement_detected": true
+      },
+      "education": {
+        "score": 0.0,
+        "base_weight": 10.0,
+        "effective_weight": 10.0,
+        "contribution": 0.0,
+        "requirement_detected": true
+      }
+    },
+    "filename": "vikram_singh.txt",
+    "email": "vikram.singh@example.com",
+    "phone": "+91 93333 44455",
+    "education": [
+      "MBA"
+    ],
+    "estimated_experience_years": 5,
+    "extracted_skills": [
+      "Java",
+      "MySQL",
+      "PostgreSQL",
+      "SQL",
+      "Git",
+      "Linux"
+    ],
+    "rank": 12,
+    "ranking_explanation": "Vikram Singh has an overall limited match with a final score of 14.3/100. NLP similarity is 1.9/100. Required skill match is 11.1/100. Matched skills: Git. Missing skills: Python, Machine Learning, Natural Language Processing, scikit-learn, pandas, NumPy, Generative AI, REST API."
+  }
+]

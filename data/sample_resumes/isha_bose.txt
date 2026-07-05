@@ -1,0 +1,18 @@
+Isha Bose
+Email: isha.bose@example.com
+Phone: +91 92222 33344
+
+Summary
+Data analyst transitioning into AI engineering with strong analytics foundations.
+
+Skills
+Python, pandas, NumPy, SQL, Git, Machine Learning, Tableau, MySQL
+
+Education
+B.Sc Computer Science
+
+Experience
+2 years of experience in analytics and reporting.
+
+Projects
+Prepared customer datasets using pandas and NumPy. Trained basic classification models in scikit-learn during internal learning projects.
